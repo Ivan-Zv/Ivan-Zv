@@ -28,3 +28,10 @@ Steam: https://steamcommunity.com/profiles/76561199417572650/
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100">
 </div>
 <br><br>
+<br><br>
+---
+# 🛠️ Technologies and tools
+
+### Programming languages
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelSize=28)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelSize=28)
