@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ivan Beginner C++ Developer
 
-<!--
-**Ivan-Zv/Ivan-Zv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Based in Norilsk, Krasnoyarsk Krai.
 
-Here are some ideas to get you started:
+🚀 Active development since 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Crafting clean and efficient code using Visual Studio & VS Code.
+
+🤝 Open to project discussions, internships, and collaboration.
+
+📫 Get in touch:
+
+Email: sasiska117117@gmail.com
+
+Telegram: https://t.me/Iva_Mag_Dak
+
+Steam: https://steamcommunity.com/profiles/76561199417572650/
+
+<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/974cd85f-9034-4659-80b3-ca5ee4cb46d9" />
+
+https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif
